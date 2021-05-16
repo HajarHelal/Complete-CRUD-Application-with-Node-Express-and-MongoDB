@@ -12,3 +12,4 @@ That's it. You are ready to go. To execute this project just type
 ```
 npm start
 ```
+* Note: This application was made by following the instructions in this tutorial:https://www.youtube.com/watch?v=W1Kttu53qTg 
